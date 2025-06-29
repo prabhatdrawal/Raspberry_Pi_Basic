@@ -34,3 +34,10 @@ Pi 3 Model A+ -2019
 Pi 4 Model A - 2019
 Pi Model B - 2020
 Pi 400 - 2021
+
+
+Specs of the Computer: - The computer has a quad-core ARM processor that doesn’t support the same instruction as an X86 desktop CPU. It has 1GB of RAM, One HDMI port, four USB ports, one Ethernet connection, Micro SD slot for storage, one combined 3.5mm audio/video port, and a Bluetooth connection. It has got a series of input and output pins that are used for making projects like - home security cameras, Encrypted Door lock, etc. 
+
+Versatility of Raspberry Pi: - It is indeed a versatile computer and can be utilized by people from all age groups, it can be used for watching videos on YouTube, watching movies, and programming in languages like Python, Scratch, and many more. As mentioned above it has a series of I/O pins that give this board the ability to interact with its environment and hence can be utilized to build really cool and interactive projects. 
+
+Examples of projects: - It can be turned into a weather station by connecting some instruments to it for check the temperature, wind speed, humidity etc... It can be turned into a home surveillance system due to its small size; by adding some cameras to it the security network will be ready. If you love reading books it can also become a storage device for storing thousands of eBooks and also you can access them through the internet by using this device. 
