@@ -11,6 +11,26 @@ The original device had a single-core Processor speed of device ranges from 700 
 
 To store the operating system and program memory Secure Digital (SD) cards are used. Raspbian OS which is a Linux operating system is recommended OS by Raspberry Pi Foundation. Some other third party operating systems like RISC OS Pi. Diet Pi, Kali, Linux can also be run on Raspberry Pi.
 
-Used:
+## Used:
 
 It also provides a set of general purpose input/output pins allowing you to control electronic components for physical computing and explore the Internet of Things (IOT).
+
+## Raspberry Pi model -
+
+There have been many generations of raspberry Pi from Pi 1 to Pi 4.
+There is generally a model A and model B.
+Model A is a less expensive variant and it trends to have reduce RAM and dual cores such as USB and Ethernet.
+
+## List of Raspberry pi models and releases year:
+
+pi 1 model B - 2012 
+pi 1 model A - 2013 
+pi 1 model B+ -2014 
+pi 1 model A+ - 2014 
+Pi 2 Model B - 2015
+Pi 3 Model B- 2016
+Pi 3 Model B+ -2018
+Pi 3 Model A+ -2019
+Pi 4 Model A - 2019
+Pi Model B - 2020
+Pi 400 - 2021
